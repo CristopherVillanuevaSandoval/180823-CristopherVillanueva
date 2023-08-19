@@ -1,0 +1,47 @@
+  374  pwd
+  375  cd Desktop
+  376  cd 180823-CristopherVillanueva
+  377  git init
+  378  touch main.js
+  379  touch index.html
+  380  git status
+  381  git add .
+  382  git status
+  383  git commit -m "commit 01 de CristopherVillanueva"
+  384  git push 180823-CristopherVillanueva main
+  385  git push origin main
+  386  git push
+  387  git remote add 180823-CristopherVillanueva https://github.com/CristopherVillanuevaSandoval/180823-CristopherVillanueva.git
+  388  git push 180823-CristopherVillanueva main
+  389  git branch feature
+  390  git checkout feature
+  391  mkdir Hardware
+  392  mkdir Software
+  393  mkdir SeguridadInformatica
+  394  cd Hardware
+  395  touch resumen.text
+  396  cd.
+  397  cd ..
+  398  cd Software
+  399  touch resumen.text
+  400  cd ..
+  401  cd SeguridadInformatica
+  402  touch resumen.text
+  403  cd ..
+  404  git status
+  405  git add .
+  406  git status
+  407  git commit -m "commit 02 de CristopherVillanueva"
+  408  git push 180823-CristopherVillanueva feature
+  409  git checkout main
+  410  git ls
+  411  ls
+  412  mv main.js resumenHardware.text
+  413  mv index.html resumenSoftware.txt
+  414  mv resumenHardware.text resumenHardware.txt
+  415  git status
+  416  git add .
+  417  git commit -m"commit 03 CristopherVillanueva"
+  418  git status
+  419  touch comandos.txt
+  420  history
